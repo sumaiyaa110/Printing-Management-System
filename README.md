@@ -67,7 +67,7 @@ This project demonstrates:
 ![Print Submission Prepaid](images/print_request_prepaid.jpg)
 
 ### 💳 Print Submission (bKash)
-![Print Submission bKash](images/print_request _bkash.jpg)
+![Print Submission bKash](images/print_request%20_bkash.jpg)
 
 ### 🧑‍💼 Admin Approval Dashboard
 ![Admin Approval Dashboard](images/admin_dashboard.jpg)
