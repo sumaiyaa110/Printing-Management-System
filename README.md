@@ -57,7 +57,7 @@ This project demonstrates:
 
 > Sample screenshots show:
 - User registration
-  ![User Registration](images/User registration.jpg)
+  ![User Registration](images/User%20registration.jpg)
 -  and dashboard
 - Print submission (prepaid/bKash)
 - Admin approval dashboard
