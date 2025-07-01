@@ -56,9 +56,11 @@ This project demonstrates:
 ## 🖼️ System Preview
 
 > Sample screenshots show:
-- User registration
-  ![User Registration](images/User%20registration.jpg)
--  and dashboard
+
+### 👤 User Registration
+  ![User Registration]
+  (images/User%20registration.jpg)
+### 🏠 User Dashboard
 - Print submission (prepaid/bKash)
 - Admin approval dashboard
 - Viewing history, statuses, and packages
