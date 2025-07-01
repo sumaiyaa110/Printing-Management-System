@@ -73,8 +73,8 @@ This project demonstrates:
 ![Admin Approval Dashboard](images/admin_dashboard.jpg)
 
 ### 📚 Print History & Status Tracking
-![User History](images/see_history.jng)
-![Status Check](images/print_status.jng)
+![User History](images/see_history.jpg)
+![Status Check](images/print_status.jpg)
 
 ---
 
