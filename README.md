@@ -59,10 +59,22 @@ This project demonstrates:
 
 ### 👤 User Registration
   ![User Registration](images/User%20registration.jpg)
+
 ### 🏠 User Dashboard
-- Print submission (prepaid/bKash)
-- Admin approval dashboard
-- Viewing history, statuses, and packages
+![User Dashboard](images/user_dashboard.jpg)
+
+### 🧾 Print Submission (Prepaid)
+![Print Submission Prepaid](images/print_request_prepaid.jpg)
+
+### 💳 Print Submission (bKash)
+![Print Submission bKash](images/print_request_bkash.jpg)
+
+### 🧑‍💼 Admin Approval Dashboard
+![Admin Approval Dashboard](images/admin_dashboard.jpg)
+
+### 📚 Print History & Status Tracking
+![User History](images/see_history.jng)
+![Status Check](images/print_status.jng)
 
 ---
 
