@@ -1,0 +1,22 @@
+
+turab:123456:50
+:567891:100
+:ghjfkl1234:100
+:kjlwer123:100
+:dfghjkl123:100
+:abc123:100
+:abc123:100
+:abc1234:100
+:abc123:50
+:eidwer123:50
+:wer123:50
+turab user1 user1 user1 user1 user1 user1 user1 user1 user1 user1:qwerty:100
+user1:qwerty:38
+user1:asdfgh:100
+user1 user1 user2:asdfg321:200
+user2:eid21:100
+user1:user1abc:50
+sumu:sumu110:46
+sumaiya110:FEBHVEF23H:100
+:DVYFSHV23U:
+user110:DVGDVH23:79

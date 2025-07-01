@@ -1,0 +1,152 @@
+OrderID: 1749888492
+Username: turab
+File: labreport
+Copies: 1
+Color: Color
+Print Type: Double-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1749966232
+Username: user1
+File: one.pdf
+Copies: 2
+Pages per Copy: 4
+Color: Black & White
+Print Type: Double-Sided
+Payment Method: sdfjkl1234
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1749975288
+Username: user1
+File: abc.pdf
+Copies: 1
+Pages per Copy: 3
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750153385
+Username: sumu
+File: lab2.pdf
+Copies: 1
+Pages per Copy: 5
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750154426
+Username: sumu
+File: lab2.pdf
+Copies: 1
+Pages per Copy: 6
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750155103
+Username: sumu
+File: try1
+Copies: 1
+Pages per Copy: 6
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750156307
+Username: sumu
+File: s.pdf
+Copies: 1
+Pages per Copy: 4
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750156570
+Username: user1
+File: ct1.pdf
+Copies: 2
+Pages per Copy: 6
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750157866
+Username: sumaiya110
+File: index.pdf
+Copies: 2
+Pages per Copy: 1
+Color: Color
+Print Type: One-Sided
+Payment Method: GYYGFJK
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1749888852
+Username: turab
+File: labreport1
+Copies: 2
+Color: Black & White
+Print Type: One-Sided
+Payment Method: 12345678
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750170648
+Username: user110
+File: frontpage.pdf
+Copies: 1
+Pages per Copy: 1
+Color: Color
+Print Type: One-Sided
+Payment Method: DEVFWYV23BC
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750171999
+Username: user110
+File: roundrobbin.pdf
+Copies: 1
+Pages per Copy: 6
+Color: Color
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750672552
+Username: user110
+File: labreport.pdf
+Copies: 5
+Pages per Copy: 3
+Color: Black & White
+Print Type: One-Sided
+Payment Method: prepaid
+Status: Approved
+-----------------------------
+-----------------------------
+OrderID: 1750673760
+Username: user110
+File: a.pdf
+Copies: 1
+Pages per Copy: 1
+Color: Black & White
+Print Type: One-Sided
+Payment Method: ghjfkdl
+Status: Approved
+-----------------------------
+-----------------------------

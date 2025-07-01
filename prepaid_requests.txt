@@ -1,0 +1,6 @@
+Username: prashanta
+Transaction ID: qwerty
+Pages Requested: 100
+Amount: 180 BDT
+Status: Pending
+-----------------------------
